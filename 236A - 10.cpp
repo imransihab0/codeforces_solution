@@ -25,11 +25,8 @@ int main(){
         }
     }
 
-    if(count%2 == 0){
-        printf("CHAT WITH HER!\n");
-    }else{
-        printf("IGNORE HIM!\n");
-    }
-    
+    if(count%2 == 0) printf("CHAT WITH HER!\n");
+    else printf("IGNORE HIM!\n");
+        
 return 0;
 }
