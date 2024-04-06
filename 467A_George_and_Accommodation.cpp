@@ -11,9 +11,7 @@ int main(){
     while(t--){
         int a, b;
         cin >> a >> b;
-        if((b-a)>=2){
-            s++;
-        }
+        if((b-a)>=2) s++;
     }
 
     cout << s << endl;
