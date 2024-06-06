@@ -1,5 +1,6 @@
 // https://codeforces.com/problemset/problem/732/A
 // @handle: imransihab0
+// at [ Jun/07/2024 02:41UTC+6 ]
 
 #include<bits/stdc++.h>
 using namespace std;
